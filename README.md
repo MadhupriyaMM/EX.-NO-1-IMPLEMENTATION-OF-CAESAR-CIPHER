@@ -16,6 +16,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 #include <string.h>
 int main() {
@@ -58,7 +59,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
 <img width="627" height="317" alt="image" src="https://github.com/user-attachments/assets/c751c034-996d-4f5c-9645-f5877088baa5" />
 
